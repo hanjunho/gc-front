@@ -9,3 +9,8 @@ node_modules
 .next
 
 # amplify
+
+
+# local env
+.env
+.env*.local
